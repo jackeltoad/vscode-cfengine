@@ -2,6 +2,8 @@
 Syntax highlighting for [CFEngine3](https://cfengine.com/) for [VSCode](https://code.visualstudio.com/). Copied from https://github.com/lastops/sublime-cfengine/
 
 ## Installation
+### Normal install
+ext install vscode-cfengine
 
 ### Manual Installation
 
