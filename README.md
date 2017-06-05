@@ -1,5 +1,5 @@
 # vscode-cfengine README
-Syntax highlighting for [CFEngine3](https://cfengine.com/). Copied from https://github.com/lastops/sublime-cfengine/
+Syntax highlighting for [CFEngine3](https://cfengine.com/) for [VSCode](https://code.visualstudio.com/). Copied from https://github.com/lastops/sublime-cfengine/
 
 ## Installation
 
