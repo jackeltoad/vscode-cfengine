@@ -25,3 +25,7 @@ ext install vscode-cfengine
   </table>
 
 2. git clone https://github.com/AZaugg/vscode-cfengine.git
+
+
+# Contributions
+PRs welcome
